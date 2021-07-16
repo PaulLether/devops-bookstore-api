@@ -15,6 +15,12 @@ books = [{
         "bookAuthors" : "Pethuru Raj, Jeeva S. Chelladhurai, Vinod Singh"
     },
     {
+        "bookTitle": "Linux System Programming Techniques" ,
+        "bookImage": "https://itbook.store/img/books/9781789951288.png",
+        "bookDescription": "Linux is the world's most popular open source operating system (OS). Linux System Programming Techniques will enable you to extend the Linux OS with your own system programs and communicate with other programs on the system.",
+        "bookAuthors" : "Jack-Benny Persson."
+    },
+    {
         "bookTitle": "Kubernetes Best Practices" ,
         "bookImage": "https://itbook.store/img/books/9781492056478.png",
         "bookDescription": "In this practical guide, four Kubernetes professionals with deep experience in distributed systems, enterprise application development, and open source will guide you through the process of building applications with container orchestration.",
